@@ -3,7 +3,7 @@
 Thechs that i've used at least once
 - 🔭 JAVA
 - 🌱 C#
-- 👯 VBA
+- 👯 Spring Boot
 - 🤔 C
 - 💬 Python
 - 📫 MySQL
