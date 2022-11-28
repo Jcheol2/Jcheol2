@@ -10,5 +10,5 @@ Thechs that i've used at least once
 - 😄 Android Studio
 
 Retention period
-- 정보처리기사
+- Engineer Information Processing
 - SQLD
